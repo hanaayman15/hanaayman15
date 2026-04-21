@@ -18,58 +18,33 @@ I focus on building **real-world intelligent systems using AI + software enginee
 
 # 🚀 About Me
 - 🔭 Working on AI/ML & Full-Stack projects  
-- 🌱 Learning advanced Deep Learning & Computer Vision  
-- 🎯 Goal: Become an AI/ML Engineer  
-- 🏐 National-level professional athlete  
+- 🌱 Learning Deep Learning & Computer Vision  
+- 🎯 Goal: AI/ML Engineer  
+- 🏐 National-level athlete  
 
 ---
 
 # 🧠 Tech Stack
 
-**AI / ML:** Python, TensorFlow, PyTorch, Scikit-learn  
-**Computer Vision:** OpenCV, YOLO  
-**Frontend:** React.js, JavaScript, HTML, CSS  
-**Data:** Pandas, NumPy, Matplotlib  
-**Tools:** Git, GitHub, Docker  
+## 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+## 👁️ Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 
-# 📌 Featured Projects
+## 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 Deep Learning Projects
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=hanaayman15&repo=deep-learning-projects)](https://github.com/hanaayman15)
-
-CNN-based models for image classification and segmentation using TensorFlow.
-
----
-
-### 👁️ Computer Vision System
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=hanaayman15&repo=opencv-projects)](https://github.com/hanaayman15)
-
-OpenCV-based systems for object detection and image processing tasks.
-
----
-
-### 🌐 React.js Web Applications
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=hanaayman15&repo=react-projects)](https://github.com/hanaayman15)
-
-Modern frontend applications with API integration and responsive UI.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanaayman15&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanaayman15&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaayman15&layout=compact&theme=tokyonight" />
-</p>
+## ⚙️ Tools
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
