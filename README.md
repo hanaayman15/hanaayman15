@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn]  
+- 💼 LinkedIn: [www.linkedin.com/in/hana-ayman-ibrahim]  
 - 📧 Email: haymam8@gmail.com  
 - 🌍 Location: Alexandria, Egypt  
 
