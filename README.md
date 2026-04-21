@@ -24,6 +24,19 @@ I focus on building **real-world intelligent systems using AI + software enginee
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaayman15&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanaayman15&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanaayman15&theme=tokyonight" />
+</p>
+
+---
+
 # 🧠 Tech Stack
 
 ## 🤖 AI / ML
