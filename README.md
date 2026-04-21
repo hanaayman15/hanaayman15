@@ -58,4 +58,5 @@ I focus on building **real-world intelligent systems using AI + software enginee
 
 # ⚡ Fun Fact
 🏐 I balance AI engineering with professional volleyball at national level.
+
 ⭐ Always open to internships and collaboration opportunities in AI/ML & Software Development
