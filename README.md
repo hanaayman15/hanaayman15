@@ -8,32 +8,21 @@
 # 👩‍💻 About Me
 
 🎓 Computer Science (AI Major) Student  
-🤖 AI/ML Enthusiast | Deep Learning | Computer Vision  
+🤖 AI/ML Engineer in Progress | Deep Learning | Computer Vision  
 💻 Full-Stack Developer (Python + React.js)  
 🏐 Professional Volleyball Player (Smouha SC & Egypt National Team)  
 
-I focus on building **real-world intelligent systems using AI + software engineering**.
+I build **real-world intelligent systems that combine AI and software engineering.**
 
 ---
 
-# 🚀 About Me
-- 🔭 Working on AI/ML & Full-Stack projects  
-- 🌱 Learning Deep Learning & Computer Vision  
-- 🎯 Goal: AI/ML Engineer  
-- 🏐 National-level athlete  
+# 🚀 Focus Areas
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaayman15&layout=compact&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanaayman15&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanaayman15&theme=tokyonight" />
-</p>
+- 🔭 AI/ML & Deep Learning projects  
+- 👁️ Computer Vision applications  
+- 🌐 Full-stack development with React & Python  
+- 🎯 Goal: FAANG-level AI/ML Engineer  
+- 🏐 High-performance sports discipline mindset  
 
 ---
 
@@ -70,6 +59,7 @@ I focus on building **real-world intelligent systems using AI + software enginee
 ---
 
 # ⚡ Fun Fact
+
 🏐 I balance AI engineering with professional volleyball at national level.
 
-⭐ Always open to internships and collaboration opportunities in AI/ML & Software Development
+⭐ Open to internships & collaborations in AI/ML and Software Engineering
